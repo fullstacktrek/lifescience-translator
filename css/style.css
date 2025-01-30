@@ -2272,7 +2272,7 @@ blockquote {
     #landing-footer #personalized {
         float: right;
         width: 50%;
-        text-align: right;
+        text-align: -webkit-right;
     }
 
 }
